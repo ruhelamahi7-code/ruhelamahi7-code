@@ -36,7 +36,6 @@ class MahiRuhela:
         self.skills = [
             "HTML",
             "CSS",
-            "JavaScript",
             "Python",
             "C",
             "C++",
