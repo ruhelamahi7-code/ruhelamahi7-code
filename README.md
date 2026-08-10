@@ -52,12 +52,11 @@ class MahiRuhela:
 
         self.current_goal = (
             "Contributing to impactful open source projects "
-            "and improving problem-solving skills through DSA."
+            "Building practical software, and sharpening my DSA skills."
         )
 
         self.fun_fact = (
-            "I enjoy turning ideas into real projects and learning "
-            "new technologies by building them."
+            "I enjoy transforming ideas into real products through code."
         )
 
     def say_hi(self):
