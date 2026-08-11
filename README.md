@@ -65,3 +65,135 @@ class MahiRuhela:
 me = MahiRuhela()
 me.say_hi()
 ```
+## 🚀 Skills
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+## 🚀 Featured Projects
+
+### 🤝 Collaborative Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ CyberShield AI
+
+AI-powered autonomous cyber resilience platform that detects, analyzes, and responds to cyber threats using a multi-agent architecture.
+
+🔗 **Repository:** [View Repository](https://github.com/ruhelamahi7-code/cyber-resilience-ai)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 ResolvBot
+
+AI-powered complaint resolution system with sentiment analysis, urgency detection, automatic escalation, and a live analytics dashboard.
+
+🔗 **Repository:** [View Repository](https://github.com/ruhelamahi7-code/complaint-resolution-bot)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🥗 SmartPantry
+
+Smart pantry management application for tracking groceries, monitoring expiry dates, planning meals, and reducing food waste.
+
+🔗 **Repository:** [View Repository](https://github.com/ruhelamahi7-code/smartpantryy)
+
+</td>
+
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+---
+
+### 👩‍💻 Independent Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Meeting Analyzer
+
+AI-powered application that converts meeting recordings into structured summaries, action items, key decisions, and insights.
+
+🔗 **Repository:** [View Repository](https://github.com/ruhelamahi7-code/meeting-analyzer)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛍️ Brass Heritage *(Private Repository)*
+
+Designed and developed a modern e-commerce website for a local brass artisan to showcase handcrafted brass products and establish an online presence.
+
+🌐 **Live Demo:** [Visit Website](https://brass-heritage.vercel.app)
+
+🔒 **Repository:** Private
+
+</td>
+</tr>
+</table>
+
+## 🌍 My Open Source Journey
+
+My open-source journey began with **GirlScript Summer of Code 2026**, where I took my first steps into contributing to real-world projects.
+
+From waiting for my first issue assignment to actively exploring repositories, identifying issues, implementing features, and collaborating with maintainers, every contribution has been a valuable learning experience.
+
+Open source has taught me much more than writing code—it has helped me understand existing codebases, communicate effectively, solve real-world problems, and continuously improve as a developer.
+
+### ✨ Contribution Highlights
+
+- 🌟 Active Contributor in **GirlScript Summer of Code 2026**
+- 🚀 Contributed to multiple open-source repositories
+- 🔧 Implemented features, enhanced user interfaces, and fixed bugs
+- 🤝 Collaborated with maintainers through pull requests, code reviews, and discussions
+- 📚 Continuously learning by contributing to real-world software projects
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruhelamahi7-code&theme=github_dark"
+  />
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ruhelamahi7-code&theme=tokyonight&hide_border=true&border_radius=12"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ruhelamahi7-code&theme=tokyo-night&hide_border=true"
+  />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ruhelamahi7-code&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruhelamahi7-code/ruhelamahi7-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
