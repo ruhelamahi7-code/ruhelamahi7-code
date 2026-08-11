@@ -176,10 +176,41 @@ Open source has taught me much more than writing code—it has helped me underst
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ruhelamahi7-code&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🏅 GSSoC '26 Badges
 
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ruhelamahi7-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
+  <a href="https://gssoc.girlscript.org/profile/aec03af3-aee7-4f84-b79d-a7906b3b38d5">
+    <img src="assets/badges/gssoc-badge-elite.png" width="120" alt="Elite Badge"/>
+  </a>
+  <a href="https://gssoc.girlscript.org/profile/aec03af3-aee7-4f84-b79d-a7906b3b38d5">
+    <img src="assets/badges/gssoc-badge-power_contributor.png" width="120" alt="Power Contributor Badge"/>
+  </a>
+  <a href="https://gssoc.girlscript.org/profile/aec03af3-aee7-4f84-b79d-a7906b3b38d5">
+    <img src="assets/badges/gssoc-badge-rising_star.png" width="120" alt="Rising Star Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/aec03af3-aee7-4f84-b79d-a7906b3b38d5">
+    <img src="assets/badges/gssoc-badge-building_momentum.png" width="120" alt="Building Momentum Badge"/>
+  </a>
+  <a href="https://gssoc.girlscript.org/profile/aec03af3-aee7-4f84-b79d-a7906b3b38d5">
+    <img src="assets/badges/gssoc-badge-on_a_roll.png" width="120" alt="On a Roll Badge"/>
+  </a>
+  <a href="https://gssoc.girlscript.org/profile/aec03af3-aee7-4f84-b79d-a7906b3b38d5">
+    <img src="assets/badges/gssoc-badge-consistent.png" width="120" alt="Consistent Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>🏆 Proud Contributor at GirlScript Summer of Code 2026</b><br>
+  <i>Actively contributing to open source and continuously learning through real-world projects.</i>
+</p>
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/aec03af3-aee7-4f84-b79d-a7906b3b38d5">
+    🌐 <b>View My GSSoC 2026 Profile</b>
+  </a>
 </p>
 
 ## 🐍 Contribution Snake
