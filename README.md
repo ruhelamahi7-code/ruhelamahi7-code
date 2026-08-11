@@ -166,34 +166,27 @@ Open source has taught me much more than writing code—it has helped me underst
 - 🤝 Collaborated with maintainers through pull requests, code reviews, and discussions
 - 📚 Continuously learning by contributing to real-world software projects
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruhelamahi7-code&theme=github_dark"
-  />
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ruhelamahi7-code&theme=tokyonight&hide_border=true&border_radius=12"
-  />
+  <img src="https://streak-stats.demolab.com?user=ruhelamahi7-code&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ruhelamahi7-code&theme=tokyo-night&hide_border=true"
-  />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ruhelamahi7-code&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruhelamahi7-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ruhelamahi7-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruhelamahi7-code/ruhelamahi7-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img width="90%" src="https://raw.githubusercontent.com/ruhelamahi7-code/ruhelamahi7-code/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
+
+
+
